@@ -1,0 +1,15 @@
+C:\Documents and Settings\msuarin\my documents\visual studio 2010\Projects\UpgradeUtil\UpgradeUtil\bin\Debug\UpgradeUtil.exe
+C:\Documents and Settings\msuarin\my documents\visual studio 2010\Projects\UpgradeUtil\UpgradeUtil\bin\Debug\UpgradeUtil.pdb
+C:\Documents and Settings\msuarin\my documents\visual studio 2010\Projects\UpgradeUtil\UpgradeUtil\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\msuarin\my documents\visual studio 2010\Projects\UpgradeUtil\UpgradeUtil\obj\x86\Debug\UpgradeUtil.exe
+C:\Documents and Settings\msuarin\my documents\visual studio 2010\Projects\UpgradeUtil\UpgradeUtil\obj\x86\Debug\UpgradeUtil.pdb
+C:\Backup012914\Desktop Files\VS2010 Projects\UpgradeUtil\UpgradeUtil\obj\x86\Debug\UpgradeUtil.exe
+C:\Backup012914\Desktop Files\VS2010 Projects\UpgradeUtil\UpgradeUtil\obj\x86\Debug\UpgradeUtil.pdb
+C:\Backup012914\Desktop Files\VS2010 Projects\UpgradeUtil\UpgradeUtil\bin\Debug\UpgradeUtil.exe
+C:\Backup012914\Desktop Files\VS2010 Projects\UpgradeUtil\UpgradeUtil\bin\Debug\UpgradeUtil.pdb
+C:\Backup012914\Desktop Files\VS2010 Projects\UpgradeUtil\UpgradeUtil\obj\x86\Debug\UpgradeUtil.csprojResolveAssemblyReference.cache
+C:\VS2012 Projects\UpgradeUtil\UpgradeUtil\obj\x86\Debug\UpgradeUtil.exe
+C:\VS2012 Projects\UpgradeUtil\UpgradeUtil\obj\x86\Debug\UpgradeUtil.pdb
+C:\VS2012 Projects\UpgradeUtil\UpgradeUtil\bin\Debug\UpgradeUtil.exe
+C:\VS2012 Projects\UpgradeUtil\UpgradeUtil\bin\Debug\UpgradeUtil.pdb
+C:\VS2012 Projects\UpgradeUtil\UpgradeUtil\obj\x86\Debug\UpgradeUtil.csprojResolveAssemblyReference.cache
